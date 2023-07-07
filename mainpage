@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, intial-scale=1.0">
+<title>Calculator app</title>
+
+<link rel="shortcut icon" href="images/calculatorimage.png" type="image/x-icon"> ///IMAGE OF CHOICE
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+    
+
+<body>
+
+<p>shush</p>
+
+</body>
+</html>
